@@ -3,7 +3,7 @@ Lab 5
 /******************************************************************************
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
-Número de horas:
+Número de horas: 10 horas por ahí
 
 
 /******************************************************************************
@@ -12,18 +12,21 @@ Número de horas:
 
 ¿Sí o no?
 
+Sí, la importación de archivos, porque el programa ni arranca si está mal esa parte.
+También, el Autograder de GitHub me dió un par de problemas porque aunque el programa sea funcional y tenga lógica perfecta si falta algún espacio o un \n te califica peor.
+
 
 /******************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
 
-
+Muy largo sinceramente
 
 /******************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+https://github.com/nicolasmancera1
 
 /******************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -34,5 +37,6 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+Esta tarea de programación representa mi propio trabajo de acuerdo
+con las regulaciones de la Universidad.  /s/ Nicolas Mancera
 
